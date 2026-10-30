@@ -49,3 +49,6 @@ Learning Outcomes
 - Data Visualization
 - Dashboard Development
 - SQL Reporting
+## Dashboard Preview
+
+![Student Performance Dashboard](IMG-20261029-WA8948.jpg)
